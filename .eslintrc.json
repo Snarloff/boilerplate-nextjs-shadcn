@@ -1,3 +1,4 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals", "@snarloff/eslint-config/next-tailwind"],
+  "overrides": []
 }
